@@ -2707,7 +2707,7 @@
       "username_claimed": "janusz-nowak"
     },
     "Instagram": {
-      "errorMsg": "Nothing found!",
+      "errorMsg": "Sorry, this page isn't available.",
       "errorType": "message",
       "url": "https://www.instagram.com/{}",
       "urlMain": "https://www.instagram.com/",
