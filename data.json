@@ -2706,10 +2706,11 @@
       "urlMain": "https://znanylekarz.pl",
       "username_claimed": "janusz-nowak"
     },
-    "instagram": {
-        "errorType": "status_code",
-        "url": "https://instagram.com/{}",
-        "urlMain": "https://instagram.com",
-        "username_claimed": "blue"
+    "Instagram": {
+      "errorMsg": "Nothing found!",
+      "errorType": "message",
+      "url": "https://www.instagram.com/{}",
+      "urlMain": "https://www.instagram.com/",
+      "username_claimed": "blue"
     }
   }
