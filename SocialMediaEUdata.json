@@ -2662,7 +2662,7 @@
     "Instagram": {
       "errorMsg": "<span class=\"x1lliihq x1plvlek xryxfnj x1n2onr6 x193iq5w xeuugli x1fj9vlw x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x x1i0vuye x133cpev x1s688f x5n08af x2b8uid x4zkp8e x41vudc x10wh9bi x1wdrske x8viiok x18hxmgj\" dir=\"auto\" style=\"line-height: var(--base-line-clamp-line-height); --base-line-clamp-line-height: 30px;\">Sorry, this page isn't available.</span>",
       "regexCheck": "^[a-zA-Z0-9\\.]{3,49}(?<!\\.com|\\.org|\\.net)$",
-      "errorType": "status_code",
+      "errorType": "message",
       "url": "https://www.instagram.com/{}",
       "urlMain": "https://www.instagram.com/",
       "username_claimed": "blue"
