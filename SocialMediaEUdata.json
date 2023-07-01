@@ -2660,11 +2660,11 @@
       "username_claimed": "janusz-nowak"
     },
     "Instagram": {
-      "errorMsg": "Sorry, this page isn't available.",
-      "regexCheck": "^@[a-zA-Z0-9_\\.]{1,30}$",
+      "errorMsg": "Nothing found!",
       "errorType": "message",
       "url": "https://www.instagram.com/{}",
       "urlMain": "https://www.instagram.com/",
+      "urlProbe": "https://www.picuki.com/profile/{}",
       "username_claimed": "blue"
-    }    
+    }
   }
